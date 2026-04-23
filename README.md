@@ -32,7 +32,7 @@ To address these issues, the original op-amps were replaced with the OPA227P, wh
 ## Report
 The full project report is available here:
 
-[View Report](report/low-noise-amplifier.pdf)
+[View Report](report/Low_Amp_Design_and_Analysis.pdf)
 
 ## Collaboration
 This project was completed in collaboration with Enrique Lopez-Salinas.
